@@ -14,3 +14,11 @@ This is a Flask project, and while we have done our best to minimize bugs, pleas
 3. Run the `app.py` file.
 4. Go to `http://localhost:5000/` in your web browser.
 5. Enjoy! 
+
+
+## previews 
+
+
+![image](https://user-images.githubusercontent.com/100179759/233870583-8ae97810-4b43-4e76-99b8-40e5f465d762.png)
+
+![image](https://user-images.githubusercontent.com/100179759/233870629-312bb298-0c1a-42ab-b612-032b6a26853e.png)
